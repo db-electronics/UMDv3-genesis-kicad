@@ -25,11 +25,6 @@ fp-info-cache
 
 # Exported BOM files
 *.xml
-*.csv
 
 # local output folders
-sch/
-gerbers/
-bom/
-board/
 *-backups/
