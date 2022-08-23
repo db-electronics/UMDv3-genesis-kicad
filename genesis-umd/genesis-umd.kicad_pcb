@@ -6,12 +6,12 @@
 
   (paper "A")
   (title_block
-    (title "Sega Genesis UMDv2 Adapter")
-    (date "2020-03-09")
-    (rev "2.2")
+    (title "Sega Genesis UMDv3 Adapter")
+    (date "2022-08-22")
+    (rev "3.0")
     (company "db Electronics")
     (comment 1 "Licensed Under CERN OHL v.1.2")
-    (comment 2 "https://github.com/db-electronics/UMDv2-genesis-kicad")
+    (comment 2 "https://github.com/db-electronics/UMDv3-genesis-kicad")
   )
 
   (layers
