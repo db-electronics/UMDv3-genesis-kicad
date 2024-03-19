@@ -3,8 +3,8 @@ The [Universal Mega Dumper v3](https://github.com/db-electronics/UMDv3) project 
 
 This PCB interfaces a Genesis / Megadrive cartridge to the UMDv3. The [UMDv3 Main PCB](https://github.com/db-electronics/UMDv3-kicad) detects which cartridge adapter is currently connected by reading an ID byte on the I2C bus provided by an MCP23008. The Genesis / Megadrive ID is 0x01.
 
-# Project Documentation
-Please refer to the [UMDv3 Firmware Project Repository](https://github.com/db-electronics/UMDv3) for UMDv3 documentation and instructions as this is the project's central repository.
+# Project
+Please refer to the [UMDv3 Firmware Project Repository](https://github.com/db-electronics/UMDv3) for UMDv3 documentation and instructions; this is the project's central repository and where the wiki is hosted.
 
 # Dependencies
 ## Parts Libraries
